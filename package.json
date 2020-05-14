@@ -1,0 +1,38 @@
+{
+  "name": "@halkin/github-activity",
+  "version": "0.9.1",
+  "description": "CLI commands that will help to prepare commits to adjust Github activity",
+  "main": "init-git.ts",
+  "scripts": {
+    "dev": "tsnd init-git.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexgalkin/github-activity.git"
+  },
+  "keywords": [
+    "github",
+    "activity",
+    "creative",
+    "git-commit"
+  ],
+  "author": "Alex Halkin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexgalkin/github-activity/issues"
+  },
+  "homepage": "https://github.com/alexgalkin/github-activity#readme",
+  "devDependencies": {
+    "@types/node": "^18.15.3",
+    "@types/shelljs": "^0.8.12",
+    "prettier": "^3.0.0",
+    "ts-node-dev": "^2.0.0"
+  },
+  "types": "./dist/index.d.ts",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "shelljs": "^0.8.5"
+  }
+}
