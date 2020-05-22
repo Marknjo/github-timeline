@@ -4,3 +4,4 @@ Fixed typo
 Added README.md
 Fixed typo
 Updated title
+Made minor updates
