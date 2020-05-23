@@ -5,3 +5,4 @@ Made minor updates
 Fixed typo
 Fixed critical issue
 Updated title
+Added README.md
