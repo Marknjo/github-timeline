@@ -6,3 +6,4 @@ Fixed typo
 Updated title
 Made minor updates
 Updated title
+Fixed critical issue
