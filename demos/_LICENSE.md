@@ -16,3 +16,4 @@ Updated title
 Made minor updates
 Made minor updates
 Updated title
+Fixed typo
