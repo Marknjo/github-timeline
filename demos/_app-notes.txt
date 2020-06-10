@@ -19,3 +19,4 @@ Made minor updates
 Added README.md
 Added description
 Added README.md
+Fixed typo
