@@ -12,3 +12,4 @@ Updated title
 Fixed critical issue
 Added description
 Added description
+Made minor updates
