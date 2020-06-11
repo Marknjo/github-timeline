@@ -20,3 +20,4 @@ Added README.md
 Added description
 Added README.md
 Fixed typo
+Fixed critical issue
