@@ -20,3 +20,4 @@ Added README.md
 Made minor updates
 Updated title
 Fixed critical issue
+Fixed critical issue
