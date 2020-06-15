@@ -28,3 +28,4 @@ Updated title
 Fixed critical issue
 Added description
 Fixed typo
+Fixed critical issue
