@@ -24,3 +24,4 @@ Fixed critical issue
 Fixed critical issue
 Fixed critical issue
 Updated title
+Made minor updates
