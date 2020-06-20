@@ -23,3 +23,4 @@ Fixed critical issue
 Fixed critical issue
 Fixed critical issue
 Fixed critical issue
+Updated title
