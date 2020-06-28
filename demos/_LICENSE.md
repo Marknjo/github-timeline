@@ -26,3 +26,4 @@ Made minor updates
 Fixed typo
 Fixed typo
 Fixed typo
+Made minor updates
