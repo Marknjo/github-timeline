@@ -24,3 +24,4 @@ Made minor updates
 Updated title
 Added description
 Fixed typo
+Fixed critical issue
