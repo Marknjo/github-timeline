@@ -32,3 +32,4 @@ Fixed typo
 Fixed critical issue
 Fixed typo
 Added description
+Added README.md
