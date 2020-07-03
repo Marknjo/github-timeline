@@ -34,3 +34,4 @@ Fixed typo
 Added description
 Added README.md
 Added description
+Made minor updates
