@@ -36,3 +36,4 @@ Made minor updates
 Updated title
 Fixed critical issue
 Added description
+Fixed critical issue
