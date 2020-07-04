@@ -36,3 +36,4 @@ Fixed typo
 Fixed critical issue
 Added README.md
 Made minor updates
+Fixed critical issue
