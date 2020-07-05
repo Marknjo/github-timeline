@@ -40,3 +40,4 @@ Fixed critical issue
 Fixed critical issue
 Fixed typo
 Added README.md
+Fixed typo
