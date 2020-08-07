@@ -43,3 +43,4 @@ Added README.md
 Added description
 Added description
 Fixed typo
+Made minor updates
