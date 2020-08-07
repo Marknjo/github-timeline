@@ -36,3 +36,4 @@ Fixed typo
 Made minor updates
 Fixed typo
 Fixed typo
+Fixed critical issue
