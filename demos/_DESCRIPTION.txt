@@ -41,3 +41,4 @@ Added README.md
 Made minor updates
 Updated title
 Made minor updates
+Fixed typo
