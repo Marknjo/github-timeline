@@ -48,3 +48,4 @@ Added README.md
 Fixed critical issue
 Updated title
 Added README.md
+Made minor updates
