@@ -54,3 +54,4 @@ Fixed typo
 Fixed typo
 Added description
 Made minor updates
+Fixed critical issue
