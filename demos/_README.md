@@ -53,3 +53,4 @@ Fixed critical issue
 Fixed typo
 Fixed typo
 Added description
+Made minor updates
