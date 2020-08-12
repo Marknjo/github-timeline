@@ -45,3 +45,4 @@ Made minor updates
 Fixed critical issue
 Fixed critical issue
 Added description
+Fixed typo
