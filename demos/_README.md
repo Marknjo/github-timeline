@@ -57,3 +57,4 @@ Made minor updates
 Fixed critical issue
 Added README.md
 Added description
+Updated title
