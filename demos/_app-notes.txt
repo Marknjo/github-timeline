@@ -51,3 +51,4 @@ Fixed typo
 Fixed typo
 Fixed typo
 Updated title
+Fixed critical issue
