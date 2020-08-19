@@ -46,3 +46,4 @@ Fixed critical issue
 Fixed critical issue
 Added description
 Fixed typo
+Made minor updates
