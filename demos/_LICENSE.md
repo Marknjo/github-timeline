@@ -45,3 +45,4 @@ Fixed critical issue
 Added description
 Made minor updates
 Added README.md
+Fixed typo
