@@ -48,3 +48,4 @@ Added README.md
 Fixed typo
 Made minor updates
 Fixed typo
+Made minor updates
