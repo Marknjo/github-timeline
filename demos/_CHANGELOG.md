@@ -52,3 +52,4 @@ Updated title
 Added description
 Added README.md
 Updated title
+Fixed typo
