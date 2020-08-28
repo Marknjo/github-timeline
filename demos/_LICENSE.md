@@ -52,3 +52,4 @@ Made minor updates
 Fixed critical issue
 Added description
 Added description
+Updated title
