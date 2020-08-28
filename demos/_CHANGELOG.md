@@ -54,3 +54,4 @@ Added README.md
 Updated title
 Fixed typo
 Added description
+Fixed critical issue
