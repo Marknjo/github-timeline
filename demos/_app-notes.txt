@@ -56,3 +56,4 @@ Fixed typo
 Added README.md
 Made minor updates
 Made minor updates
+Updated title
