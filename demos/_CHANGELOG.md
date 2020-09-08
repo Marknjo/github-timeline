@@ -60,3 +60,4 @@ Added description
 Added README.md
 Added README.md
 Fixed typo
+Made minor updates
