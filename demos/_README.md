@@ -78,3 +78,4 @@ Made minor updates
 Added description
 Added description
 Updated title
+Fixed typo
