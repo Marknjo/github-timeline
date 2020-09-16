@@ -68,3 +68,4 @@ Made minor updates
 Fixed typo
 Added description
 Updated title
+Fixed typo
