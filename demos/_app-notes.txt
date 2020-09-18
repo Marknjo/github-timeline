@@ -70,3 +70,4 @@ Added README.md
 Made minor updates
 Added description
 Updated title
+Fixed typo
