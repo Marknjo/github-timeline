@@ -67,3 +67,4 @@ Added description
 Added README.md
 Fixed critical issue
 Fixed critical issue
+Made minor updates
