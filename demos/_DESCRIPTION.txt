@@ -71,3 +71,4 @@ Updated title
 Fixed typo
 Updated title
 Added README.md
+Fixed critical issue
