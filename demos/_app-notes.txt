@@ -74,3 +74,4 @@ Fixed typo
 Added README.md
 Fixed critical issue
 Made minor updates
+Fixed critical issue
