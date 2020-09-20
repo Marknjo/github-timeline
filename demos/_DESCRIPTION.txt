@@ -72,3 +72,4 @@ Fixed typo
 Updated title
 Added README.md
 Fixed critical issue
+Fixed typo
