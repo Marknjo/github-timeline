@@ -81,3 +81,4 @@ Fixed critical issue
 Added README.md
 Fixed typo
 Fixed critical issue
+Made minor updates
