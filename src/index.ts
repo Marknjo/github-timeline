@@ -1,9 +1,6 @@
-'use strict';
-
 import os from 'os';
 import path from 'path';
 import { exec } from 'child_process';
-import shell from 'shelljs';
 
 import PrinterSvc, { TMask } from './service/command-printer';
 

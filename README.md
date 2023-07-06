@@ -1,9 +1,9 @@
 # GitHub Activity section adjustment script
 
->  :wink: :sunglasses: this project is made just for fun; it can be used to convert your activity
->  graph to the nice looking image :candy:
+> :wink: :sunglasses: this project is made just for fun; it can be used to convert your activity
+> graph to the nice looking image :candy:
 >
->  :monocle_face: Do not use that to fool someone's impression about your activity
+> :monocle_face: Do not use that to fool someone's impression about your activity
 
 ## Description
 
@@ -33,12 +33,11 @@ At least two required parameters should be provided to generate the script:
 1. Start date - the date of the first filled in activity square - e.g. `let startDate = "2022-01-09 11:15:30";`
 2. The mask. Mask defines how many commits should be made for specific date or a range of dates.
 
-
 ## Mask example
 
 `let mask = [{c:8,l:2}, {s:2}, {c:1,l:3}]`
 
-Explanation: Each items of the array is specific instruction. 
+Explanation: Each items of the array is specific instruction.
 
 `{c:8,l:2}` - c is for Commit's count; l is for Length (amount of days). It means that script should prepare 8 commits for 2 subsequent days.
 
@@ -94,3 +93,18 @@ gh.setFileNames(["debug.app.log","app-web.log","notes-app.md"])
 
 gh.printToFile();
 ```
+
+## Executing Your Git File
+
+1. Ensure you've fixed your project below by going through the below **caveats** section.
+2. Then, open your CMD and type `sh <tmp/filename.sh>` i.e. `sh commits.sh`
+3. Alternatively, on your entry file, add **`gh.execute()`**
+
+## Caveats
+
+Currently, there are a few issues with the way Node writes the file. There here is a few steps to follow to ensure your commits.sh runs. Take these steps and you'll be okay.
+
+- Select with multi-cursor `git commit`, on windows hold _`shift + ctl + J`_
+- Move cursor downward to the empty line
+- Then click backspace key, such that there no space, then enter to recreate the space (this make's sure when you run the file it will not error out)
+- From there, on your cmd, run _`sh <filename>.sh`_ (preferable set your entry file to be _commits.sh_)

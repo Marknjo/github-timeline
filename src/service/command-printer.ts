@@ -1,7 +1,5 @@
-'use strict';
-
 import fs from 'fs';
-import path, { sep } from 'path';
+import { sep } from 'path';
 
 interface Skippable {
   s: number;
@@ -42,19 +40,19 @@ class GithubDate extends Date {
     return <GithubDate>date;
   }
 
-  genRandomHour = () => {
+  genRandomHour() {
     return Math.floor(
       Math.random() * (this.dEnd - this.dStart + 1) + this.dStart
     );
-  };
+  }
 
-  genRandom60 = () => {
+  genRandom60() {
     return Math.floor(Math.random() * 60);
-  };
+  }
 
-  genRandomMils = () => {
+  genRandomMils() {
     return Math.floor(Math.random() * 1000);
-  };
+  }
 }
 
 class PrinterService {
@@ -212,8 +210,6 @@ class PrinterService {
             this.print(outputFile, this.getGitAddCommand());
 
             this.print(outputFile, this.getCommitMessage(currentDate, message));
-
-            //  this.print(outputFile, "\r\n");
 
             // use count
             count++;
